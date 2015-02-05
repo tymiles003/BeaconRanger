@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BeaconRanger</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="beacon_ranger">BeaconRanger</string>
+    <string name="title_activity_beacon_scanner">BeaconScannerActivity</string>
+
+</resources>
