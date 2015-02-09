@@ -28,9 +28,9 @@ public class MainActivity extends Activity implements BeaconConsumer {
     private static final String OPTED_IN = "OPTED_INTO_BEACON";
     private BeaconManager beaconManager;
 
-    @InjectView(R.id.img_status_indicator) private ImageView imgStatusIndicator;
-    @InjectView(R.id.chk_opt_in_monitoring) private CheckBox chkOptIn;
-    @InjectView(R.id.layout_indicator) private ViewGroup layoutIndicator;
+    @InjectView(R.id.img_status_indicator) ImageView imgStatusIndicator;
+    @InjectView(R.id.chk_opt_in_monitoring) CheckBox chkOptIn;
+    @InjectView(R.id.layout_indicator) ViewGroup layoutIndicator;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

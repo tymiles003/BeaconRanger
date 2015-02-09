@@ -2,10 +2,13 @@
 <resources>
 
     <string name="app_name">BeaconRanger</string>
+    <string name="app_id">415895385245028</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_home">HomeActivity</string>
     <string name="beacon_ranger">BeaconRanger</string>
     <string name="title_activity_beacon_scanner">BeaconScannerActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 </resources>
